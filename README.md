@@ -3,7 +3,7 @@
 - 👨‍💻 I am a web-designer
 - 🏓 Hobby: game & blog
 - 👋 My personal [blog site](https://blog.stride.fun)
-- 🤷‍♂️ My leetcode https://leetcode-cn.com/u/stride-h/
+- 🤷‍♂️ My leetcode [leetcode site](https://leetcode-cn.com/u/stride-h)
 
 ---
 
