@@ -1,7 +1,7 @@
 ### Hi there, I'm [stride](https://blog.stride.fun)! 👋
 
 - 👨‍💻 I am a web-designer
-- 🏓 Hobby: game & blog
+- 🏓 Hobby: game & blog & code
 - 👋 My personal [blog site](https://blog.stride.fun)
 
 ---
